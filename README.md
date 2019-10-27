@@ -1,3 +1,3 @@
 # Weather-Trend
 
-Exploring weather trend in Toronto, CA. 
+Exploring 10 year weather trend in Toronto, CA. 
